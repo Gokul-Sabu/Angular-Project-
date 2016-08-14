@@ -1,0 +1,58 @@
+{"products": [
+	{
+		"id": 1,
+		"title": "Laptop",
+		"image": "laptop.jpg",
+		"price": 100000
+	},
+	{
+		"id": 2,
+		"title": "Mouse",
+		"image": "2.jpg",
+		"price": 100
+	},
+	{
+		"id": 3,
+		"title": "Kindle",
+		"image": "3.jpg",
+		"price": 560000
+	},
+	{
+		"id": 4,
+		"title": "Black Beauty",
+		"image": "4.jpg",
+		"price": 299
+	},
+	{
+		"id": 5,
+		"title": "Count Of Monte Cristo",
+		"image": "5.jpg",
+		"price": 1099
+	},
+	{
+		"id": 6,
+		"title": " Black Swan",
+		"image": "6.jpg",
+		"price": 499
+	},
+    { "id": 7,
+		"title":"Game Of Thrones",
+		"image": "7.jpg",
+		"price":2399
+	},
+	{ "id" : 8,
+		"title":"Shirts",
+		"image":"8.jpg" ,
+		"price": 500
+	},
+	{ "id" : 9,
+		"title": "T-Shirts",
+		"image":"9.jpg" ,
+		"price": 100
+	},
+	{"id" : 10,
+		"title":"Hats",
+		"image":"10.jpg",
+		"price":200
+	}
+]}
